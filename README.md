@@ -1,9 +1,5 @@
 # Unieloo-Navbar
-
-## Coisas que aprendi
-
-## Dificuldades
-
+ Barra de navegação feita como exercício de aprendizagem.
 ## How to build
  - Execute o comando a seguir para instalar as dependencias
   ```
